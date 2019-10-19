@@ -1,0 +1,6 @@
+{
+    "terminal.integrated.env.osx": {
+        "PATH": "/Users/renssies/.platformio/penv/bin:/Users/renssies/.platformio/penv:/Users/renssies/esp/xtensa-esp32-elf/bin:/usr/local/nrf5-command-line-tools/nrfjprog:/usr/local/nrf5-command-line-tools/mergehex:/usr/local/opt/make/libexec/gnubin:/Users/renssies/.fastlane/bin:/Users/renssies/.rbenv/shims:/Users/renssies/.rbenv/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Library/Apple/usr/bin:/Library/Apple/bin:/Applications/VMware Fusion.app/Contents/Public:/opt/X11/bin",
+        "PLATFORMIO_CALLER": "vscode"
+    }
+}
